@@ -1,9 +1,9 @@
 title: Groon Toxt # name of the site
 author: Groon Toxt # name of site's author
-email: mycatissticky777@gmail.com # email of site's author
+email: > # email of site's author
 url: groontoxt.github.io # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
-description: > # description of the site (multiple lines allowed)
+description: hello, my name is groon, and this site is the accumulation of my knowledge.  # description of the site (multiple lines allowed)
   A (nearly) no-CSS, fast, minimalist Jekyll theme.
 
 permalink: /:slug.html
@@ -11,13 +11,13 @@ permalink: /:slug.html
 favicon: "logo.png" # name+extension of favicon (which must be put on the root folder)
 # goat_counter: "yoursitename" # put your GoatCounter name if you want to use GoatCounter analytics
 
-remote_theme: riggraz/no-style-please
+remote_theme: riggraz/no-style-please # this is the github page way of theming this jekyll
 
 theme_config:
   appearance: "dark" # can be "light", "dark" or "auto"
   back_home_text: ".." # customize text for homepage link in post layout
   date_format: "%Y-%m-%d" # customize how date is formatted
-  show_description: false # show blog description in home page
+  show_description: true # show blog description in home page
 
 sass:
   style: :compressed
