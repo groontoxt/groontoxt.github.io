@@ -3,7 +3,7 @@ author: Groon Toxt # name of site's author
 email: > # email of site's author
 url: groontoxt.github.io # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
-description: his site is the accumulation of my knowledge.  # description of the site (multiple lines allowed)
+description: this site is the accumulation of my knowledge.  # description of the site (multiple lines allowed)
 
 permalink: /:slug.html
 
