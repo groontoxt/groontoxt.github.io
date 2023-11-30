@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Language Tests"
-category: example2
+title: "Game design document"
+category: devlog
 ---
 
 ## Introduction
