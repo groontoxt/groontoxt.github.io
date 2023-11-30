@@ -18,7 +18,7 @@ entries:
       show_more_text: See archive...
       show_more_url: archive.html
 
-  - title: posts by category
+  - title: devlog posts
     post_list:
       category: devlog
       show_more: true
