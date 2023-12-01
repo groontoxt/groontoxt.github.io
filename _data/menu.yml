@@ -11,7 +11,7 @@ entries:
       - title: "<a href='https://twitter.com/groontoxt'>my twitter</a>"
       - title: "<a href='https://groontoxt.itch.io'>my itch.io</a>"
       - title: my current project
-        url: 2023-11-25-GameDesign.md
+        url: _posts\2023-11-25-GameIdeas.md
 
   - title: all posts
     post_list:
