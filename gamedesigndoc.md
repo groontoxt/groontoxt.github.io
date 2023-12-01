@@ -8,11 +8,14 @@ title: "game design document"
 ### game summary pitch
 
 this game is a roguelite that has tranformation, evolution, and tradeoffs as the main mechanics
+it also sports a puzzle subgameplay that uses the transformation as a mechanic
+
+you switch between these forms
 
 - **brute form** slows you but greatly increases AOE and damage
 - **speed form** weakens defences but greatly increases single target damage
 - **caster form** is average all around but has the best utility and AOE
-- **slinger form** throws projectiles that has damaging modifiers, great for single target
+- **slinger form** throws projectiles with damaging modifiers, great for single target
 
 the game cutscene starts with a kid and his magical ferret being thrown into a monster infested pit
 faced with spawns of monsters, the ferret activates his powerful forceshield to protect his master
