@@ -1,7 +1,6 @@
 ---
-layout: post
+layout: page
 title: "game design document"
-category: devlog
 ---
 
 ## **introduction**
