@@ -6,9 +6,12 @@ category: devlog
 
 ## introduction
 
+the game is set in dark and gritty dungeun after a great war.
+you, a summoned monster is tasked to protect your master alongside a magical ferret.
+
 ---
 
-### game summary pitch
+## game summary pitch
 
 the game cutscene with a kid and his magical ferret is thrown into a monster infested pit.
 faced with spawns of monsters, the ferret activates his powerful forceshield.
@@ -16,7 +19,7 @@ inspired by the furry companion, the kid mustered all her strength to summon an 
 
 ---
 
-### inspiration
+## inspiration
 
 - neon genesis' eva unit 0 - for the look and feel.
 - starcraft - zerg evolution tree.
@@ -25,7 +28,7 @@ inspired by the furry companion, the kid mustered all her strength to summon an 
 
 ---
 
-### player experience
+## player experience
 
 the player is starting a fight by entering a room.
 collecting souls streanthens the abomination beast.
