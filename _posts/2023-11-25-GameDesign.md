@@ -1,34 +1,34 @@
 ---
 layout: post
-title: "Game design document"
+title: "game design document"
 category: devlog
 ---
 
 ## introduction
 
-- game summary pitch
+---
+
+### game summary pitch
 
 the game cutscene with a kid and his magical ferret is thrown into a monster infested pit.
 faced with spawns of monsters, the ferret activates his powerful forceshield.
-inspiired by the furry ccompanion, the kid mustered all her strength to summon an abomination beast.
+inspired by the furry companion, the kid mustered all her strength to summon an abomination beast.
 
-- inspiration
-  - neon genesis' eva unit 0 - for the look and feel.
-  - starcraft - zerg evolution tree.
-  - kingdom rush - tower defence style and tower evolution tree.
-  - lilo and stitch - stitch's siblings appearance reflect their special ability
+---
 
-- player experience
+### inspiration
 
-you plan out your spawns and buildings and manage resources to win against an onslought of coming enemies.
+- neon genesis' eva unit 0 - for the look and feel.
+- starcraft - zerg evolution tree.
+- kingdom rush - tower defence style and tower evolution tree.
+- lilo and stitch - stitch's siblings appearance reflect their special ability
 
-- Release Platform
+---
 
-- Development Software
+### player experience
 
-- Genre
-
-- Target Audience
+the player is starting a fight by entering a room.
+collecting souls streanthens the abomination beast.
 
 ---
 
