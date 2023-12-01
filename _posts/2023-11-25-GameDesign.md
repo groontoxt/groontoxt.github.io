@@ -4,29 +4,31 @@ title: "Game design document"
 category: devlog
 ---
 
-## Introduction
+## introduction
 
-* Game Summary Pitch
+- game summary pitch
 
-scientist has uncovered an ancient alien species while mining for resources.
-Modular invasion is a tower defence/ offence game where both sides build towers and spawn units.
-you are a queen of an alien race and your job is to manage your spawn army and build base to solidify your territory.
+the game cutscene with a kid and his magical ferret is thrown into a monster infested pit.
+faced with spawns of monsters, the ferret activates his powerful forceshield.
+inspiired by the furry ccompanion, the kid mustered all her strength to summon an abomination beast.
 
-* Inspiration
+- inspiration
+  - neon genesis' eva unit 0 - for the look and feel.
+  - starcraft - zerg evolution tree.
+  - kingdom rush - tower defence style and tower evolution tree.
+  - lilo and stitch - stitch's siblings appearance reflect their special ability
 
-kingdom rush, starcraft, neon genesis evangelion and legos.
-
-* Player Experience
+- player experience
 
 you plan out your spawns and buildings and manage resources to win against an onslought of coming enemies.
 
-* Release Platform
+- Release Platform
 
-* Development Software
+- Development Software
 
-* Genre
+- Genre
 
-* Target Audience
+- Target Audience
 
 ---
 
