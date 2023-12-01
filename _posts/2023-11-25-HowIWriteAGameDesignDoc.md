@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "game design document"
+title: "how i write a game design document"
 category: devlog
 ---
 

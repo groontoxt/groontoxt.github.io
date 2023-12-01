@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "why godot?"
+title: "why i picked godot as my game engine"
 category: devlog
 ---
 

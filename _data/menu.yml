@@ -10,7 +10,7 @@ entries:
 #        url: https://github.com/riggraz/no-style-please
       - title: "<a href='https://twitter.com/groontoxt'>my twitter</a>"
       - title: "<a href='https://groontoxt.itch.io'>my itch.io</a>"
-      - title: my current project
+      - title: my current game dev project
         url: gamedesigndoc
 
   - title: all posts
