@@ -6,20 +6,23 @@ category: devlog
 
 ## introduction
 
+### game summary pitch
+
 this game is a roguelite that has tranformation, evolution, and tradeoffs as the main mechanics
 
-### game summary pitch
+transforming into a 'brute form' slows you but greatly increases AOE and damage
+'speed form' weakens your defences but greatly increases your single target damage
+'caster form' is average all around but has the best utility and AOE.
 
 the game cutscene starts with a kid and his magical ferret being thrown into a monster infested pit
 faced with spawns of monsters, the ferret activates his powerful forceshield to protect his master
 inspired by the furry companion, the kid mustered all her strength to summon a familliar and hope for the best
-as she opened her eyes, a weird creature that just ate a monster transform before her eyes and ripped the foe to shreds
-her eyes lit for they might have a chance to survive.
 
 ### inspiration
 
 - neon genesis' eva unit 0 - for the look and feel
 - pacific rim - for the monster design
+- dota 2's morphling - the stat affects the form
 - one piece - tony tony chopper's transformation
 - genshin impact - the element switch
 - starcraft - zerg evolution tree
@@ -37,66 +40,46 @@ collecting souls streangthens the abomination beast through temporary transforma
 
 ### genre
 
-### Target Audience
+### target audience
 
 ---
 
-## Concept
+## concept
+
+### gameplay overview
+
+### theme interpretation (Sacrifice Is Strength)
+
+### primary Mechanics
+
+### secondary Mechanics
 
 ---
 
-## Gameplay overview
+## art
+
+### theme interpretation
+
+### design
 
 ---
 
-## Theme Interpretation (Sacrifice Is Strength)
+## audio
+
+### music
+
+### sound effects
 
 ---
 
-## Primary Mechanics
+## game experience
+
+### UI
+
+### controls
 
 ---
 
-## Secondary Mechanics
-
----
-
-## Art
-
----
-
-## Theme Interpretation
-
----
-
-## Design
-
----
-
-## Audio
-
----
-
-## Music
-
----
-
-## Sound Effects
-
----
-
-## Game Experience
-
----
-
-## UI
-
----
-
-## Controls
-
----
-
-## Development Timeline
+## development timeline
 
 ---
