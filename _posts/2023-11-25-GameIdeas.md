@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Game ideas"
+title: "game ideas"
 category: devlog
 ---
 

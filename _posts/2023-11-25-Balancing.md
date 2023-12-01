@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Balancing a game"
+title: "balancing a game"
 category: devlog
 ---
 
