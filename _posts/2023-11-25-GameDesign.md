@@ -4,15 +4,15 @@ title: "game design document"
 category: devlog
 ---
 
-## introduction
+## **introduction**
 
 ### game summary pitch
 
 this game is a roguelite that has tranformation, evolution, and tradeoffs as the main mechanics
 
-transforming into a 'brute form' slows you but greatly increases AOE and damage
-'speed form' weakens your defences but greatly increases your single target damage
-'caster form' is average all around but has the best utility and AOE.
+**brute form** slows you but greatly increases AOE and damage
+**speed form** weakens your defences but greatly increases your single target damage
+**caster form** is average all around but has the best utility and AOE.
 
 the game cutscene starts with a kid and his magical ferret being thrown into a monster infested pit
 faced with spawns of monsters, the ferret activates his powerful forceshield to protect his master
@@ -44,7 +44,7 @@ collecting souls streangthens the abomination beast through temporary transforma
 
 ---
 
-## concept
+## **concept**
 
 ### gameplay overview
 
@@ -56,7 +56,7 @@ collecting souls streangthens the abomination beast through temporary transforma
 
 ---
 
-## art
+## **art**
 
 ### theme interpretation
 
@@ -64,7 +64,7 @@ collecting souls streangthens the abomination beast through temporary transforma
 
 ---
 
-## audio
+## **audio**
 
 ### music
 
@@ -72,7 +72,7 @@ collecting souls streangthens the abomination beast through temporary transforma
 
 ---
 
-## game experience
+## **game experience**
 
 ### UI
 
@@ -80,6 +80,6 @@ collecting souls streangthens the abomination beast through temporary transforma
 
 ---
 
-## development timeline
+## **development timeline**
 
 ---
