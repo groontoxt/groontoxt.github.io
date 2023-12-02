@@ -13,19 +13,19 @@ entries:
       - title: my current project's game design document
         url: gamedesigndoc
 
-  - title: all posts
-    post_list:
-      limit: 5
-      show_more: true
-      show_more_text: See archive...
-      show_more_url: archive.html
-
   - title: devlog posts
     post_list:
       category: devlog
       show_more: true
       show_more_text: See more posts...
       show_more_url: example2-archive.html
+
+  - title: all posts
+    post_list:
+      limit: 5
+      show_more: true
+      show_more_text: See archive...
+      show_more_url: archive.html
 
 #  - title: rss
 #    url: feed.xml
