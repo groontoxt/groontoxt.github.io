@@ -10,9 +10,12 @@ category: devlog
 
 these are three major stats in the game that determines balance.
 
-- damage - ex. berserker has high damage but low sustain.
-- speed - ex. ninja has high speed but average in everything else.
-- toughness - ex. tanks or any archetype that can take a lot of damage.
+- damage
+  - berserker has high damage but low sustain.
+- speed
+  - ninja has high speed but average in everything else.
+- toughness
+  - tanks or any archetype that can take a lot of damage.
 
 ### Archtype
 
@@ -21,3 +24,6 @@ these are the archetypes having another arch type as its weakness. examples like
 the best example I could give is Leage of Legend where its more complex to define a character than "speed", "damage" or "durability".
 
 ### Rock Paper Scissors
+
+an archtype is weak against another archtype and an element is weak against another lement, etc.
+this way it will be managable to balance your game.
