@@ -6,23 +6,23 @@ category: devlog
 
 ## Modular invasion
 
-    - Reverse tower defense, you are the monsters invading
-    - you built your monsters thru modular evolution like Starcraft.
+- Reverse tower defense, you are the monsters invading
+- you built your monsters thru modular evolution like Starcraft.
 
 ## Modular evolution
 
-    - you are a creature that evolves each kill in a dungeun
-    - you pick a starting monster that evolves to a module you pick
-    - you have to eat stronger and stronger foes to get stronger
+- you are a creature that evolves each kill in a dungeun
+- you pick a starting monster that evolves to a module you pick
+- you have to eat stronger and stronger foes to get stronger
 
 ## modular tower defense
 
-    - the towers are modular and each module can be crafted to discovered.
+- the towers are modular and each module can be crafted to discovered.
 
 ## Stored unpolished ideas
 
-    - Interview dead people
-    - Platformer in key clockwork
+- Interview dead people
+- Platformer in key clockwork
 
 ## post apocalyptic economy manager
 

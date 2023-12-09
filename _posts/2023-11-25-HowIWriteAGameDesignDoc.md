@@ -8,34 +8,24 @@ category: devlog
 
 ### game summary pitch
 
-this game is a roguelite that has tranformation, evolution, and tradeoffs as the main mechanics
-
-- **brute form**
-  - slows you but greatly increases AOE and damage
-
-- **speed form**
-  - weakens defences but greatly increases single target damage
-
-- **caster form**
-  - is average all around but has the best utility and AOE
-
-- **slinger form**
-  - throws projectiles that has damaging modifiers, great for single target
-
-the game cutscene starts with a kid and his magical ferret being thrown into a monster infested pit
-faced with spawns of monsters, the ferret activates his powerful forceshield to protect his master
-inspired by the furry companion, the kid mustered all her strength to summon a familliar and hope for the best
+this game is a roguelite that has tranformation, evolution, and tradeoffs as the main mechanic
 
 ### inspiration
 
+- **general mahoraga**
+  - adaptation is his best weapon
+
+- **pacific rim monsters**
+  - organs that make monsters unique
+
 - **neon genesis'**
-  - for the look and feel
+  - for the look of abimination famm
 
 - **dota 2's morphling**
   - the stat affects the form
 
-- **one piece**
-  - tony tony chopper's transformation
+- **one piece**, **lilo and stitch**
+  - ability influences the form's look
 
 - **genshin impact**
   - the element switch
@@ -43,21 +33,31 @@ inspired by the furry companion, the kid mustered all her strength to summon a f
 - **starcraft**
   - transformation animation
 
-- **lilo and stitch**
-  - stitch's siblings appearance reflect their special ability
-
 ### player experience
 
-the player is starting a fight by entering a room
-collecting souls streangthens the abomination beast through temporary transformation and permanent evolution
+you navigate room to room to find the portal energy source and collect souls
+along the way if you do find one, you depend your summoner till he unlocks the gate
+unlocking the gates require you to destroy energy blocks
 
 ### platform
 
+The game is developed to be released on windows PC
+
 ### development software
+
+- Godot for programming
+- Aseprite for graphics and UI
+- FL Studio 12 for all music and SFX
 
 ### genre
 
+- roguelite
+- puzzle
+- story
+
 ### target audience
+
+roguelite players who crave for a little bit of story
 
 ---
 
@@ -65,7 +65,32 @@ collecting souls streangthens the abomination beast through temporary transforma
 
 ### gameplay overview
 
-### theme interpretation (Sacrifice Is Strength)
+the main focus of the game is switching between form and adapt **during** battle
+
+**form system:**
+
+- brute form
+  - accesible if you have **strength** as the dominant stat
+  - slows you but greatly increases AOE and damage
+
+- speed form
+  - accesible if you have **speed** as the dominant stat
+  - weakens defences but greatly increases single target damage
+
+- caster form
+  - accesible if you have **void** as the dominant stat
+  - is average all around but has the best utility and AOE
+
+- slinger form
+  - accesible if you have **dexterity** as the dominant stat
+  - throws projectiles that has damaging modifiers, great for single target
+
+### theme interpretation
+
+pick your strength and weakness
+
+forms give you abilities that makes you strong for certain situations
+and tradeoff stats and makes you weaker for other situations
 
 ### primary Mechanics
 
