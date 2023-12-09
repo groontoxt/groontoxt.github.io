@@ -3,7 +3,6 @@ layout: page
 title: "game design document"
 ---
 
-
 ## **introduction**
 
 ### game summary pitch
