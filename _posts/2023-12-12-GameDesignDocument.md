@@ -1,6 +1,8 @@
 ---
-layout: page
-title: "game design document"
+layout: post
+title: "Game design document"
+category: Protean Protector
+category: Devlog
 ---
 
 ## Introduction

@@ -13,19 +13,16 @@ entries:
 #        url: https://github.com/riggraz/no-style-please
 
   - title: Protean Protector design documents
-    entries:
-      - title: my current project's game design document
-        url: gamedesigndoc
     post_list:
-      limit: 5
-      category: Protean Protector
+      limit: 4
+      category: Protean Protector posts
       show_more: true
-      show_more_text: See more posts... 
-
+      show_more_text: See more posts...
+      show_more_url: protean-protector.html
 
   - title: devlog posts
     post_list:
-      limit: 3
+      limit: 4
       category: Devlog
       show_more: true
       show_more_text: See more posts...
@@ -33,7 +30,7 @@ entries:
 
   - title: all posts
     post_list:
-      limit: 3
+      limit: 4
       show_more: true
       show_more_text: See archive...
       show_more_url: all-post-archive.html
