@@ -15,7 +15,7 @@ entries:
   - title: Protean Protector design documents
     post_list:
       limit: 4
-      category: Protean Protector posts
+      category: Protean Protector
       show_more: true
       show_more_text: See more posts...
       show_more_url: protean-protector.html
