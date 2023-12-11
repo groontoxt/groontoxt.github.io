@@ -15,17 +15,18 @@ entries:
 
   - title: devlog posts
     post_list:
+      limit: 5
       category: devlog
       show_more: true
       show_more_text: See more posts...
-      show_more_url: example2-archive.html
+      show_more_url: devlog-archive.html
 
   - title: all posts
     post_list:
       limit: 5
       show_more: true
       show_more_text: See archive...
-      show_more_url: archive.html
+      show_more_url: all-post-archive.html
 
 #  - title: rss
 #    url: feed.xml
