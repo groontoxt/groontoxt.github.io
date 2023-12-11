@@ -3,162 +3,157 @@ layout: page
 title: "game design document"
 ---
 
-## **introduction**
+## Introduction
 
-### game summary pitch
+### Game Summary Pitch
 
-this game is a roguelite that has tranformation, evolution, and tradeoffs as the main mechanic
+This game is a roguelite that features transformation, evolution, and tradeoffs as the main mechanics.
 
-### inspiration
+### Inspiration
 
-- **general mahoraga**
-  - adaptation is his best weapon
+- **General Mahoraga**
+  - Adaptation is his best weapon.
 
-- **pacific rim monsters**
-  - organs that make monsters unique
+- **Pacific Rim Monsters**
+  - Organs that make monsters unique.
 
-- **neon genesis'**
-  - for the look of abimination famm
+- **Neon Genesis**
+  - For the look of abomination form.
 
-- **dota 2's morphling**
-  - the stat affects the form
+- **Dota 2's Morphling**
+  - Stats affect the form.
 
-- **one piece**, **lilo and stitch**
-  - ability influences the form's look
+- **One Piece, Lilo and Stitch**
+  - Abilities influence the form's look.
 
-- **genshin impact**
-  - the element switch
+- **Genshin Impact**
+  - The element switch.
 
-- **starcraft**
-  - transformation animation
+- **Starcraft**
+  - Transformation animation.
 
-### player experience
+### Player Experience
 
-you navigate room to room to find the portal energy source and collect souls
-along the way if you do find one, you depend your summoner till he unlocks the gate
-unlocking the gates require you to destroy energy blocks
+Navigate room to room to find the portal energy source and collect souls. Along the way, if you find one, defend your summoner until he unlocks the gate. Unlocking the gates requires you to destroy energy blocks.
 
-### platform
+### Platform
 
-The game is developed to be released on windows PC
+The game is developed to be released on Windows PC.
 
-### development software
+### Development Software
 
 - Godot for programming
 - Aseprite for graphics and UI
 - FL Studio 12 for all music and SFX
 
-### genre
+### Genre
 
-roguelite, puzzle, story
+Roguelite, Puzzle, Story
 
-### target audience
+### Target Audience
 
-roguelite players who crave for a little bit of story
-
----
-
-## **concept**
-
-### gameplay overview
-
-the main focus of the game is switching between form and adapt **during** battle
-
-**form system:**
-
-- brute form
-  - accesible if you have **strength** as the dominant stat
-  - slows you but greatly increases AOE and damage
-
-- speed form
-  - accesible if you have **speed** as the dominant stat
-  - weakens defences but greatly increases single target damage
-
-- caster form
-  - accesible if you have **void** as the dominant stat
-  - is average all around but has the best utility and AOE
-
-- slinger form
-  - accesible if you have **dexterity** as the dominant stat
-  - throws projectiles that has damaging modifiers, great for single target
-
-### gameplay theme interpretation
-
-pick your strength and weakness
-
-forms give you abilities that makes you strong for certain situations
-and tradeoff stats and makes you weaker for other situations
-
-### primary Mechanics
-
-### secondary Mechanics
-
-**combat system**
-
-attacking
-
-- fast or slow
-	- anticipation
-	- strike
-	- contact
-	- recovery
-
-attack range
-
-tactical options
-
-- inputs
-- certain attacks has an advantage
-
-block and dodge
-
-- parry - nullifies damage before it contacts
-- counter - a block that deals damage
-
-stun lock
-
-- dealing damage stuns the enemy (a form of positive feedback)
-- receiving damage stuns you (a form of negative feedback)
-
-enemy design
-
-- certain enemies are more receptive to a certain type of damage or stronger against certain damage type
-
-encourage full move set
-
-- a full combo might give rewards like heal or stun lock etc. (a form of positive feedback)
-
-making an impact
-
-- make attacks have levels of satisfaction
-- the stronger the attack the more flashy the spectacle should be
+Roguelite players who crave a little bit of story.
 
 ---
 
-## **art**
+## Concept
 
-### art theme interpretation
+### Gameplay Overview
 
-### design
+The main focus of the game is switching between forms and adapting **during** battle.
+
+**Form System:**
+
+- **Brute Form**
+  - Accessible if you have **strength** as the dominant stat.
+  - Slows you but greatly increases AOE and damage.
+
+- **Speed Form**
+  - Accessible if you have **speed** as the dominant stat.
+  - Weakens defenses but greatly increases single-target damage.
+
+- **Caster Form**
+  - Accessible if you have **void** as the dominant stat.
+  - Is average all around but has the best utility and AOE.
+
+- **Slinger Form**
+  - Accessible if you have **dexterity** as the dominant stat.
+  - Throws projectiles with damaging modifiers, great for single target.
+
+### Gameplay Theme Interpretation
+
+Pick your strength and weakness. Forms give you abilities that make you strong for certain situations and tradeoff stats, making you weaker for other situations.
+
+### Primary Mechanics
+
+### Secondary Mechanics
+
+**Combat System**
+
+Attacking:
+
+- Fast or slow
+  - Anticipation
+  - Strike
+  - Contact
+  - Recovery
+
+Attack range
+
+Tactical options:
+
+- Inputs
+- Certain attacks have advantages
+
+Block and dodge:
+
+- Parry - nullifies damage before it contacts
+- Counter - a block that deals damage
+
+Stun lock:
+
+- Dealing damage stuns the enemy (a form of positive feedback)
+- Receiving damage stuns you (a form of negative feedback)
+
+Enemy design:
+
+- Certain enemies are more receptive to a certain type of damage or stronger against a certain damage type
+
+Encourage full move set:
+
+- A full combo might give rewards like heal or stun lock, etc. (a form of positive feedback)
+
+Making an impact:
+
+- Make attacks have levels of satisfaction
+- The stronger the attack, the more flashy the spectacle should be
 
 ---
 
-## **audio**
+## Art
 
-### music
+### Art Theme Interpretation
 
-### sound effects
+### Design
 
 ---
 
-## **game experience**
+## Audio
+
+### Music
+
+### Sound Effects
+
+---
+
+## Game Experience
 
 ### UI
 
-### controls
+### Controls
 
 ---
 
-## **development timeline**
+## Development Timeline
 
 ---
