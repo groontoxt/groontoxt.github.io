@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "why i picked godot as my game engine"
-category: Protean Protector Devlog
+category: Protean Protector
+category: Devlog
 ---
 
 ## what i'm looking for in an engine

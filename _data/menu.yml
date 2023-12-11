@@ -2,21 +2,31 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: info
+  - title: my info and socials
     entries:
       - title: about me
         url: about
       - title: "<a href='https://twitter.com/groontoxt'>my twitter</a>"
       - title: "<a href='https://groontoxt.itch.io'>my itch.io</a>"
-      - title: my current project's game design document
-        url: gamedesigndoc
+      
 #      - title: github
 #        url: https://github.com/riggraz/no-style-please
+
+  - title: Protean Protector design documents
+    entries:
+      - title: my current project's game design document
+        url: gamedesigndoc
+    post_list:
+      limit: 5
+      category: Protean Protector
+      show_more: true
+      show_more_text: See more posts... 
+
 
   - title: devlog posts
     post_list:
       limit: 3
-      category: Protean Protector Devlog
+      category: Devlog
       show_more: true
       show_more_text: See more posts...
       show_more_url: devlog-archive.html
