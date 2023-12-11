@@ -6,16 +6,16 @@ entries:
     entries:
       - title: about me
         url: about
-#      - title: github
-#        url: https://github.com/riggraz/no-style-please
       - title: "<a href='https://twitter.com/groontoxt'>my twitter</a>"
       - title: "<a href='https://groontoxt.itch.io'>my itch.io</a>"
       - title: my current project's game design document
         url: gamedesigndoc
+#      - title: github
+#        url: https://github.com/riggraz/no-style-please
 
   - title: devlog posts
     post_list:
-      limit: 5
+      limit: 3
       category: devlog
       show_more: true
       show_more_text: See more posts...
@@ -23,7 +23,7 @@ entries:
 
   - title: all posts
     post_list:
-      limit: 5
+      limit: 3
       show_more: true
       show_more_text: See archive...
       show_more_url: all-post-archive.html

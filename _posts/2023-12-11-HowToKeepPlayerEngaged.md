@@ -22,15 +22,15 @@ category: devlog
 
 - short term goals - player has to do something right away in a micro scale to progress
 - long term goals - building up short term goals to achieve a goal in a macro scale
- 
+
 ### positive/ negative feedback
 
 > it can be a tool to losing player a chance to catchup
 
 - positive feedback - getting something make getting it easier
-	- avoid extreme positive feedback or you'll introduce unwanted snowball effect
+  - avoid extreme positive feedback or you'll introduce unwanted snowball effect
 - negative feedback - failure means easier
-	- avoid extreme negative feedback to avoid punishing an already losing player
+  - avoid extreme negative feedback to avoid punishing an already losing player
 
 ### optimizing
 
@@ -45,10 +45,10 @@ category: devlog
 ### attacking
 
 - fast or slow
-	- anticipation
-	- strike
-	- contact
-	- recovery
+  - anticipation
+  - strike
+  - contact
+  - recovery
 
 ### attack range
 
