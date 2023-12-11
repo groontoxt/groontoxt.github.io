@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "why i picked godot as my game engine"
-category: Protean Protector
 category: Devlog
 ---
 

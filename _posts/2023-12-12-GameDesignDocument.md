@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Game design document"
-category: Protean Protector
 category: Devlog
 ---
 

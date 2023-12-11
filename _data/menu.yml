@@ -12,17 +12,9 @@ entries:
 #      - title: github
 #        url: https://github.com/riggraz/no-style-please
 
-  - title: Protean Protector design documents
-    post_list:
-      limit: 4
-      category: Protean Protector
-      show_more: true
-      show_more_text: See more posts...
-      show_more_url: protean-protector.html
-
   - title: devlog posts
     post_list:
-      limit: 4
+      limit: 5
       category: Devlog
       show_more: true
       show_more_text: See more posts...
@@ -30,7 +22,7 @@ entries:
 
   - title: all posts
     post_list:
-      limit: 4
+      limit: 5
       show_more: true
       show_more_text: See archive...
       show_more_url: all-post-archive.html
