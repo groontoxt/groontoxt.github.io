@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What to think about when designing combat systems"
-category: What I learned
+category: Game Design
 ---
 
 ## Combat System

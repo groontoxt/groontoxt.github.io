@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "how i balance my game"
-category: What I learned
+category: Game Design
 ---
 
 ## balancing tricks

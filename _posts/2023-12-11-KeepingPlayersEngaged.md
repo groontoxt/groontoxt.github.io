@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Keeping players engaged"
-category: What I learned
+category: Game Design
 ---
 
 ## how to keep players engaged
