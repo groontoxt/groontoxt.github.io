@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "how i balance my game"
-category: devlog
+category: What I learned
 ---
 
 ## balancing tricks

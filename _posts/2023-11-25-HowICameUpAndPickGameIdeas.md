@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "how i came up and pick game ideas"
-category: devlog
+category: What I learned
 ---
 
 ## Modular invasion

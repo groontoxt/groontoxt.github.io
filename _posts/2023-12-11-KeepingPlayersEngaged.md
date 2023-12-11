@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "game designing"
-category: devlog
+title: "Keeping players engaged"
+category: What I learned
 ---
 
 ## how to keep players engaged
