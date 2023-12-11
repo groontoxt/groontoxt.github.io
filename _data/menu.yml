@@ -19,14 +19,14 @@ entries:
       category: devlog
       show_more: true
       show_more_text: See more posts...
-      show_more_url: devlog-archive.html
+      show_more_url: devlog-archive
 
   - title: all posts
     post_list:
       limit: 3
       show_more: true
       show_more_text: See archive...
-      show_more_url: all-post-archive.html
+      show_more_url: all-post-archive
 
 #  - title: rss
 #    url: feed.xml
