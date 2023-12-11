@@ -50,9 +50,7 @@ The game is developed to be released on windows PC
 
 ### genre
 
-- roguelite
-- puzzle
-- story
+roguelite, puzzle, story
 
 ### target audience
 
@@ -94,6 +92,46 @@ and tradeoff stats and makes you weaker for other situations
 ### primary Mechanics
 
 ### secondary Mechanics
+
+**combat system**
+
+attacking
+
+- fast or slow
+	- anticipation
+	- strike
+	- contact
+	- recovery
+
+attack range
+
+tactical options
+
+- inputs
+- certain attacks has an advantage
+
+block and dodge
+
+- parry - nullifies damage before it contacts
+- counter - a block that deals damage
+
+stun lock
+
+- dealing damage stuns the enemy (a form of positive feedback)
+- receiving damage stuns you (a form of negative feedback)
+
+enemy design
+
+- certain enemies are more receptive to a certain type of damage or stronger against certain damage type
+
+encourage full move set
+
+- a full combo might give rewards like heal or stun lock etc. (a form of positive feedback)
+
+making an impact
+
+- make attacks have levels of satisfaction
+- the stronger the attack the more flashy the spectacle should be
 
 ---
 
