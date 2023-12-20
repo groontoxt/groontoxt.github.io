@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Game design document"
+title: "Playstyles"
 category: Devlog
 ---
 
